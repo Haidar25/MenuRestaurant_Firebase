@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "793806473375",
+    "firebase_url": "https://fir-modul4.firebaseio.com",
+    "project_id": "fir-modul4",
+    "storage_bucket": "fir-modul4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793806473375:android:0dd312f7078badf6",
+        "android_client_info": {
+          "package_name": "com.example.HAIDAR_1202164150_SI4006_PAB_MODUL4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793806473375-8b9mea29hd7tog80lg9lrcjbumqru0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKTfyYuuBYQtEpqB05vXYmYDsTym-rV-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
